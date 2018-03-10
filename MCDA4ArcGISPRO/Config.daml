@@ -18,7 +18,7 @@
   </AddInInfo>
 
   <modules>
-    <insertModule id="MCDA4ArcGISPRO_Module" className="Module1" autoLoad="false" caption="Module1">
+    <insertModule id="MCDA4ArcGISPRO_Module" className="Module1" autoLoad="false" caption="MCDA4ArcGIS Pro">
       <!-- uncomment to have the control hosted on a separate tab-->
       <tabs>
         <!--<tab id="MCDA4ArcGISPRO_Tab1" caption="New Tab">
@@ -29,7 +29,11 @@
       <groups>
         <!-- comment this out if you have no controls on the Addin tab to avoid
               an empty group-->
-        <group id="MCDA4ArcGISPRO_Group1" caption="Group 1" appearsOnAddInTab="true">
+        <group id="Data" caption="Data Manager" appearsOnAddInTab="true">
+        </group>
+        <group id="Methods" caption="MCDA Methods" appearsOnAddInTab="true">
+        </group>
+        <group id="Configuration" caption="Configuration" appearsOnAddInTab="true">
           <!-- host controls within groups -->
         </group>
       </groups>
