@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCDA4ArcGISPRO", "MCDA4ArcGISPRO\MCDA4ArcGISPRO.csproj", "{DBDAD579-14F7-415E-9E79-89AC430FFCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDAD579-14F7-415E-9E79-89AC430FFCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDAD579-14F7-415E-9E79-89AC430FFCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDAD579-14F7-415E-9E79-89AC430FFCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDAD579-14F7-415E-9E79-89AC430FFCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C85027-3A89-47D5-B46D-E184D78F5463}
+	EndGlobalSection
+EndGlobal
